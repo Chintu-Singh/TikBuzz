@@ -5,7 +5,7 @@ This repository contains a TikTok clone application developed using Flutter and 
 
 - **Authentication**: Users can create accounts and log in using their email and password credentials.
 - **Video Upload**: Users can upload videos along with captions to share their content with others.
-- **Interaction**: Users can like posts, leave comments on videos, and like comments.
+- **Interaction**: Users can like posts, post comments on videos, and like comments.
 - **User Search**: The app allows users to search for specific users within the platform.
 - **Following**: Users can follow other users to stay updated with their latest posts.
 - **User Metrics**: The app displays the number of followers, following, likes, and posts for each user.
