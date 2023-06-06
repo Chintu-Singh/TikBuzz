@@ -1,16 +1,19 @@
-# TikTok
+# TikBuzz
+This repository contains a TikTok clone application developed using Flutter and Firebase. The app replicates the core features and user interface of the popular video-sharing platform, TikTok.
 
-TikTok App clone made using flutter
+## Features
 
-## Getting Started
+- **Authentication**: Users can create accounts and log in using their email and password credentials.
+- **Video Upload**: Users can upload videos along with captions to share their content with others.
+- **Interaction**: Users can like posts, leave comments on videos, and like comments.
+- **User Search**: The app allows users to search for specific users within the platform.
+- **Following**: Users can follow other users to stay updated with their latest posts.
+- **User Metrics**: The app displays the number of followers, following, likes, and posts for each user.
 
-This project is a starting point for a Flutter application.
+## Requirements
 
-A few resources to get you started if this is your first Flutter project:
+To run the TikTok clone application, you need to have the following:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (v2.0.0 or higher)
+- Firebase account with a configured project
+- Flutter plugins for Firebase authentication, storage, and database
